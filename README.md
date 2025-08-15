@@ -39,16 +39,6 @@ cd property-dealing-website
 
 ---
 
-Backend Setup
-cd backend
-npm install
-npm start
-
-Frontend Setup
-cd frontend
-npm install
-npm start
-
 📄 License
 
 This project is licensed under the MIT License – you are free to use and modify it.
