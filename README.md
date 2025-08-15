@@ -39,19 +39,15 @@ cd property-dealing-website
 
 ---
 
-###Backend Setup
+Backend Setup
 cd backend
 npm install
 npm start
 
-
----
-
-###Frontend Setuo
+Frontend Setup
 cd frontend
 npm install
 npm start
-
 
 📄 License
 
