@@ -32,9 +32,9 @@ A full-stack property dealing platform that allows users to list, browse, and ma
 
 ## 📦 Installation & Setup
 
-# 1. Clone the repository
+"# 1. Clone the repository
 git clone https://github.com/pratham468/Property-Dealing-Web.git
-cd Property-Dealing-Web
+cd Property-Dealing-Web"
 
 # 2. Navigate to server (backend) directory and install dependencies
 cd server
