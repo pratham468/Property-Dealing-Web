@@ -36,9 +36,9 @@ A full-stack property dealing platform that allows users to list, browse, and ma
 git clone https://github.com/pratham468/Property-Dealing-Web.git
 cd Property-Dealing-Web"
 
-# 2. Navigate to server (backend) directory and install dependencies
+""# 2. Navigate to server (backend) directory and install dependencies
 cd server
-npm install
+npm install""
 
 # 3. Navigate to client (frontend) directory and install dependencies
 cd ../client
