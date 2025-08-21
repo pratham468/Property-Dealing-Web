@@ -32,28 +32,31 @@ A full-stack property dealing platform that allows users to list, browse, and ma
 
 ## 📦 Installation & Setup
 
-##  Installation & Setup
+# 1. Clone the repository
 git clone https://github.com/pratham468/Property-Dealing-Web.git
 cd Property-Dealing-Web
 
-# Backend setup
+# 2. Navigate to server (backend) directory and install dependencies
 cd server
 npm install
 
-# Frontend setup
+# 3. Navigate to client (frontend) directory and install dependencies
 cd ../client
 npm install
 
-# Environment variables (in server/.env):
+# 4. Configure environment variables
+# Create a .env file inside `server/` and include:
 # MONGO_URI=<your MongoDB connection string>
 # JWT_SECRET=<your secret key>
 
-# Start servers
+# 5. Start the backend server
 cd ../server
 npm start
 
+# 6. Start the frontend development server
 cd ../client
 npm start
+
 
 ---
 
